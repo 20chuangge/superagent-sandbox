@@ -1,3 +1,3 @@
-# superagent-sandbox
+# superagent test
 
-Sandbox repository for dsh-superagent.
+Superagent test repository for dsh-superagent.
